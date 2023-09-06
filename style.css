@@ -1,0 +1,73 @@
+body {
+    width: 100%;
+    padding: 0 0;
+    margin: 0 0;
+    background-color: rgba(251, 170, 6, 0.222);
+}
+.site-header {
+    align-items: center;
+    display: flex;
+    padding-left: 20vh;
+    height: 12vh;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.159) ;
+    filter: blur(0.4px);
+    position: fixed;
+}
+.menü-link {
+    text-decoration: none;
+    color: rgb(238, 131, 0);
+}
+.Header-img {
+    width: 10vh;
+    height: auto;
+    display: inline;
+} 
+.header-menu {
+    display: inline-block;
+    list-style: none;
+    margin-left: 45vh;
+    text-align: center;
+    font-family: Ubuntu;
+}
+.menu-item {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 5vh;
+    
+}
+.header-button {
+    height: 5vh;
+    width: 15vh;
+    border-radius: 10px;
+    border: none;
+     margin-left: 40vh;
+     font-family: ubuntu;
+    background-color: orangered;
+    color: white;
+}
+/* Turuncu 
+mor
+Beyaz  */
+.main-div1 {
+    text-align: center;
+}
+.Div-Resmi-1 {
+height: auto;
+width: 100%;
+border-radius: 15px;
+}
+.div-content {
+    color: rgb(152, 0, 176);
+    text-align: center;
+    font-size: 30px;
+    font-family: Dm Sans;
+}
+.bimg {
+    text-align: center;
+}
+.Div-Resmi-2 {
+    height: auto;
+    width: 100%;
+    border-radius: 15px;
+    }
